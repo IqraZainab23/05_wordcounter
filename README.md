@@ -1,4 +1,5 @@
 # Word Counter
+
 ## Overview
 The Word Counter project is a simple yet efficient tool designed to count the number of words in a given text. Whether you are a writer, editor, or student, this application aims to streamline the process of word counting, offering a user-friendly interface and reliable results.
 
@@ -7,11 +8,10 @@ The Word Counter project is a simple yet efficient tool designed to count the nu
 - ***User-Friendly Interface:*** Intuitive design for a seamless user experience.
 
 ## Usage
-Run the calculator:
+Run the Project:
 ```bash
 npx 05_wordcounter_project
 ```
-Follow the prompt to perform calculations with style!
 
 ## Dependencies
 `Inquirer`: Provides the interactive prompt interface.
