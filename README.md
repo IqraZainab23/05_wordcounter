@@ -3,8 +3,8 @@
 The Word Counter project is a simple yet efficient tool designed to count the number of words in a given text. Whether you are a writer, editor, or student, this application aims to streamline the process of word counting, offering a user-friendly interface and reliable results.
 
 ## Features
--***Word Counting:*** Easily analyze the number of words in any given text.
--***User-Friendly Interface:*** Intuitive design for a seamless user experience.
+- ***Word Counting:*** Easily analyze the number of words in any given text.
+- ***User-Friendly Interface:*** Intuitive design for a seamless user experience.
 
   ## Usage
 Run the calculator:
